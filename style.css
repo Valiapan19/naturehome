@@ -53,7 +53,7 @@ a{
 	font-size:120px;
 }
 .btn-primary{
-	padding:30px 100px;
+	padding:30px 100px!important;
 }
 span{
 	font-size:36px;
