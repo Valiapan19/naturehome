@@ -35,7 +35,8 @@ img{
 	border-radius:50px;
 	font-weight: 600;
 	margin: 0;
-	top: 60%;
+	top: 60%!important;
+	position:absolute!important;
 }
 
 .btn-primary:hover{
