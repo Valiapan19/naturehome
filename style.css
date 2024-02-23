@@ -48,14 +48,4 @@ a{
 	text-decoration: none;
 }
 
-@media only screen and (max-width: 600px) {
-.label{
-	font-size:120px;
-}
-.btn-primary{
-	padding:30px 100px!important;
-}
-span{
-	font-size:36px;
-}
-}
+
